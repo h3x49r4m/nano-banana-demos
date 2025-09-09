@@ -1,0 +1,6 @@
+Ref: https://x.com/bilawalsidhu
+
+Template:
+You are a location-based AR experience generator. highlight [point of interest] in this image and annotate relevant information about it.
+
+Example:

@@ -1,0 +1,19 @@
+Create a vibrant and educational infographic illustrating the Earth's water cycle in a clear, circular flow. The style should be a clean, modern vector illustration with a friendly and engaging flat design aesthetic.
+
+**Core Elements and Flow:**
+
+1.  **The Sun:** Position a bright, stylized sun in the upper corner, acting as the engine of the cycle with visible rays of energy.
+2.  **Evaporation:** Show water from a large body (like an ocean) turning into vapor and rising upwards. Illustrate this with subtle, wavy, transparent lines ascending towards the sky.
+3.  **Transpiration:** Include lush green plants and trees on a piece of land. Show faint water vapor rising from the leaves, joining the evaporated water.
+4.  **Condensation:** As the water vapor rises, show it cooling and forming into a large, fluffy, stylized cloud. The cloud should look like it's made of condensed water droplets.
+5.  **Precipitation:** From the cloud, show precipitation falling back to earth. Illustrate this with clear streaks of rain over the ocean and land, and snowflakes over a mountain peak.
+6.  **Collection & Runoff:** On the land, show the rain forming small streams and a river that flows back towards the ocean. This demonstrates surface runoff.
+7.  **Infiltration & Groundwater:** Illustrate a cross-section of the land, showing some of the rainwater seeping deep into the ground to become groundwater, with arrows indicating its slow flow back towards the sea.
+
+**Labels and Text:**
+
+*   Each key stage (Evaporation, Transpiration, Condensation, Precipitation, Collection, Runoff, Infiltration) must be clearly labeled with modern, sans-serif typography.
+*   Use arrows to clearly guide the viewer's eye through the circular path of the cycle.
+*   The title "The Water Cycle" should be prominently displayed.
+
+The overall color palette should be bright and appealing, using blues for water, greens for land, and a warm yellow for the sun, creating a visually cohesive and easy-to-understand diagram.

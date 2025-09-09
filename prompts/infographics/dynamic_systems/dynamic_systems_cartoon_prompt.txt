@@ -1,0 +1,50 @@
+Create a tall, vertical infographic titled "A Wild Guide to the Universe's Quirky Rules!" The overall style should be a vibrant, whimsical, and funny cartoon. Use a bright, saturated color palette and dynamic character illustrations, similar to a modern webcomic. All text should be rendered in a playful, bold, hand-drawn style font.
+
+**Header Section:**
+- Title: "A Wild Guide to the Universe's Quirky Rules!"
+- A funny cartoon brain character looking confused, with the subtitle: "What makes the world tick? Meet the Dynamical Systems!"
+
+--- 
+
+**Section 1: How Time Flows (Or Hops!)**
+- A section comparing two funny characters.
+
+**Left Side: Continuous-Time**
+- **Character:** A sleepy, melting snail character sliding down a smooth, slippery ramp. He's leaving a single, unbroken slime trail.
+- **Label:** "Continuous-Time: I just gooo with the floooow..."
+- **Example:** The snail is looking back at his trail, which is labeled "Example: A slimy, continuous trail."
+
+**Right Side: Discrete-Time**
+- **Character:** A hyper-active, blocky robot kangaroo, hopping rigidly from one floating square platform to the next.
+- **Label:** "Discrete-Time: One! Hop! At! A! Time!"
+- **Example:** The platforms the robot is hopping on are labeled "Example: Hopping from one distinct spot to the next."
+
+--- 
+
+**Section 2: Simple Rules vs. Utter Chaos!**
+- A section comparing a predictable character to a chaotic one.
+
+**Left Side: Linear**
+- **Character:** A very prim and proper, robot butler character walking a perfectly straight tightrope. He is holding a tray with a drink that is not spilling.
+- **Label:** "Linear: So predictable! What you put in is what you get out."
+- **Example:** The butler is pointing to a cartoon vending machine labeled "Example: 1 coin = 1 soda. Always."
+
+**Right Side: Nonlinear**
+- **Character:** A wild-haired cartoon scientist being launched from a giant, complex Rube Goldberg machine that started with a tiny mouse pulling a string.
+- **Label:** "Nonlinear: A tiny nudge can cause total mayhem!"
+- **Example:** The chaotic machine is labeled "Example: This ridiculously complicated contraption."
+
+--- 
+
+**Section 3: Fortune Teller or Total Guesswork?**
+- A section comparing a confident character to a confused one.
+
+**Left Side: Deterministic**
+- **Character:** A smug-looking cartoon fortune teller with a crystal ball, pointing confidently down a single, straight, brightly-lit road.
+- **Label:** "Deterministic: I know EXACTLY how this story ends!"
+- **Example:** The road is made of falling dominoes, labeled "Example: A perfect domino chain reaction."
+
+**Right Side: Stochastic**
+- **Character:** The same fortune teller, but now looking panicked, shrugging with his hands up as the road immediately splits into a tangled, spaghetti-like mess of dozens of possible paths.
+- **Label:** "Stochastic: Your guess is as good as mine!"
+- **Example:** One of the tangled paths leads to a cartoon cat about to knock a vase off a table, labeled "Example: Will the cat do it? Who knows!"

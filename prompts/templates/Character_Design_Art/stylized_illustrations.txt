@@ -1,0 +1,7 @@
+Ref: https://x.com/GoogleAIStudio/status/1962957615262224511
+
+Template:
+A [style] sticker of a [subject], featuring [key characteristics] and a [color palette]. The design should have [line style] and [shading style]. The background must be white.
+
+Example:
+A kawaii-style sticker of a happy red panda wearing a tiny bamboo hat. It's munching on a green bamboo leaf. The design features bold, clean outlines, simple cel-shading, and a vibrant color palette. The background must be white.

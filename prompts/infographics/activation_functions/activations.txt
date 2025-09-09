@@ -1,0 +1,34 @@
+### 1. Sigmoid-like / S-shaped Functions (Bounded, Prone to Vanishing Gradients)
+
+These functions compress their input into a fixed, bounded range, typically between 0 and 1 or -1 and 1. They are historically significant but often suffer from the "vanishing gradient" problem, especially in deep networks, where gradients become very small, slowing down learning.
+
+*   **Sigmoid (Logistic)**: Outputs values between 0 and 1.
+*   **Tanh (Hyperbolic Tangent)**: Outputs values between -1 and 1, often preferred over Sigmoid due to its zero-centered output.
+
+### 2. Rectified Linear Units (ReLUs) and their Variants (Unbounded Positive, Mitigate Vanishing Gradients)
+
+These functions output the input directly if it's positive, and a small or zero value if it's negative. They are popular for mitigating the vanishing gradient problem for positive inputs and are computationally efficient. However, they can suffer from the "dying ReLU" problem where neurons become inactive.
+
+*   **ReLU (Rectified Linear Unit)**: Outputs 0 for negative inputs.
+*   **Leaky ReLU**: Outputs a small positive slope for negative inputs, preventing "dying ReLUs."
+*   **PReLU (Parametric ReLU)**: The slope for negative inputs is a learnable parameter.
+
+### 3. Exponential Linear Units (ELUs) and their Variants (Smooth, Unbounded Positive, Negative Average)
+
+Similar to ReLUs, but they have a smooth, exponential curve for negative inputs. This smoothness can help with robustness to noise and can lead to faster convergence. SELU is designed to induce self-normalizing properties in deep networks.
+
+*   **ELU (Exponential Linear Unit)**: Smoothly handles negative inputs with an exponential curve.
+*   **SELU (Scaled Exponential Linear Unit)**: A scaled version of ELU, designed to ensure the output mean and variance remain stable across layers, promoting self-normalization.
+
+### 4. Swish-like / Self-Gated Functions (Smooth, Non-monotonic)
+
+These are relatively newer activation functions that are smooth and non-monotonic (meaning their output doesn't always increase or decrease). They have shown good performance in deeper networks and can sometimes outperform ReLU variants.
+
+*   **Swish (or SiLU - Sigmoid Linear Unit)**: A smooth, non-monotonic function that is a product of the input and its sigmoid.
+*   **GELU (Gaussian Error Linear Unit)**: A smooth approximation of ReLU, often used in transformer models, which incorporates stochastic regularization.
+
+### 5. Output Layer Functions (Probabilistic)
+
+These functions are typically used in the output layer of a neural network, especially for classification tasks, to produce outputs that can be interpreted as probabilities.
+
+*   **Softmax**: Converts a vector of arbitrary real values into a probability distribution, where the sum of the outputs is 1. Used for multi-class classification.

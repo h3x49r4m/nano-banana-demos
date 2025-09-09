@@ -1,0 +1,94 @@
+Create a clean, modern, and educational infographic titled "Neural Network Activation Functions: A Visual Guide." The style should be sleek and professional, using a bright yet sophisticated color palette on a light background.
+
+**Overall Layout & Aesthetic:**
+- **Title:** "Neural Network Activation Functions: A Visual Guide" prominently displayed at the top.
+- **Background:** A clean, minimalist background.
+- **Structure:** The infographic should be divided into clear sections for each classification group. Within each group, individual activation functions will be presented in their own distinct panels.
+- **Typography:** Use a clean, legible, sans-serif font for all text (names, descriptions, formulas).
+
+**IMPORTANT NOTE ON FORMULAS:** AI image generators are not reliable for rendering accurate mathematical formulas. While the formulas are included in the prompt, the generated image may contain garbled or incorrect text for these. Focus on the visual representation of the graph shapes.
+
+--- 
+
+### **Section 1: Sigmoid-like / S-shaped Functions**
+- **Group Header:** "Sigmoid-like / S-shaped Functions (Bounded, Prone to Vanishing Gradients)"
+
+**Panel 1.1: Sigmoid**
+- **Name:** "Sigmoid"
+- **Graph:** A small, clear graph showing an S-shaped curve that smoothly transitions from 0 to 1.
+- **Formula:** "f(x) = 1 / (1 + e^(-x))"
+- **Characteristic:** "Squashes input to (0, 1)"
+
+**Panel 1.2: Tanh**
+- **Name:** "Tanh"
+- **Graph:** A small, clear graph showing an S-shaped curve that smoothly transitions from -1 to 1, centered at 0.
+- **Formula:** "f(x) = (e^x - e^(-x)) / (e^x + e^(-x))"
+- **Characteristic:** "Squashes input to (-1, 1), zero-centered"
+
+--- 
+
+### **Section 2: Rectified Linear Units (ReLUs) and their Variants**
+- **Group Header:** "Rectified Linear Units (ReLUs) and their Variants (Unbounded Positive, Mitigate Vanishing Gradients)"
+
+**Panel 2.1: ReLU**
+- **Name:** "ReLU"
+- **Graph:** A small, clear graph showing a straight line at 0 for x <= 0, and a straight line with slope 1 for x > 0 (a 'bent' shape).
+- **Formula:** "f(x) = max(0, x)"
+- **Characteristic:** "Simple, computationally efficient"
+
+**Panel 2.2: Leaky ReLU**
+- **Name:** "Leaky ReLU"
+- **Graph:** A small, clear graph showing a straight line with a small positive slope for x <= 0, and a straight line with slope 1 for x > 0.
+- **Formula:** "f(x) = x if x > 0, else αx"
+- **Characteristic:** "Prevents 'dying ReLUs'"
+
+**Panel 2.3: PReLU**
+- **Name:** "PReLU"
+- **Graph:** Similar to Leaky ReLU, but with a visual indication that the negative slope is adjustable/learnable.
+- **Formula:** "f(x) = x if x > 0, else αx (α is learnable)"
+- **Characteristic:** "Learnable negative slope"
+
+--- 
+
+### **Section 3: Exponential Linear Units (ELUs) and their Variants**
+- **Group Header:** "Exponential Linear Units (ELUs) and their Variants (Smooth, Unbounded Positive, Negative Average)"
+
+**Panel 3.1: ELU**
+- **Name:** "ELU"
+- **Graph:** A small, clear graph showing a straight line with slope 1 for x > 0, and a smooth, exponential curve approaching a negative constant for x <= 0.
+- **Formula:** "f(x) = x if x > 0, else α(e^x - 1)"
+- **Characteristic:** "Smooth for negative inputs"
+
+**Panel 3.2: SELU**
+- **Name:** "SELU"
+- **Graph:** Similar to ELU, but with a visual indication of scaling factors.
+- **Formula:** "f(x) = λ * (x if x > 0, else α(e^x - 1))"
+- **Characteristic:** "Promotes self-normalization"
+
+--- 
+
+### **Section 4: Swish-like / Self-Gated Functions**
+- **Group Header:** "Swish-like / Self-Gated Functions (Smooth, Non-monotonic)"
+
+**Panel 4.1: Swish**
+- **Name:** "Swish"
+- **Graph:** A small, clear graph showing a smooth, non-monotonic curve that dips slightly below 0 before rising.
+- **Formula:** "f(x) = x * sigmoid(x)"
+- **Characteristic:** "Smooth, non-monotonic"
+
+**Panel 4.2: GELU**
+- **Name:** "GELU"
+- **Graph:** A small, clear graph showing a smooth, S-shaped curve, similar to Swish but with a slightly different characteristic shape.
+- **Formula:** "f(x) = x * P(X ≤ x)"
+- **Characteristic:** "Used in Transformers"
+
+--- 
+
+### **Section 5: Output Layer Functions (Probabilistic)**
+- **Group Header:** "Output Layer Functions (Probabilistic)"
+
+**Panel 5.1: Softmax**
+- **Name:** "Softmax"
+- **Graph:** A conceptual diagram showing multiple inputs (e.g., three bars of different heights) transforming into a probability distribution (e.g., three bars summing to 1, with values between 0 and 1).
+- **Formula:** "f(x_i) = e^(x_i) / Σ(e^(x_j))"
+- **Characteristic:** "Outputs probability distribution"

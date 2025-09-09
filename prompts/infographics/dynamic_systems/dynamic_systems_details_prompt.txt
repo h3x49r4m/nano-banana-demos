@@ -1,0 +1,49 @@
+--- PROMPT 1: TIME EVOLUTION ---
+
+Create a vibrant infographic titled "How Time Flows (Or Hops!)" in a whimsical and funny cartoon style. The overall aesthetic should be like a modern webcomic with a bright, saturated color palette and dynamic character illustrations. All text should be in a playful, bold, hand-drawn font.
+
+The infographic should compare two funny characters side-by-side:
+
+**Left Side: Continuous-Time**
+- **Character:** A sleepy, melting snail character sliding down a long, smooth, slippery ramp. He looks very relaxed and is leaving a single, unbroken slime trail behind him.
+- **Label:** Above the character, render the text: "Continuous-Time: I just gooo with the floooow..."
+- **Example:** The snail should be looking back proudly at his slime trail, which has a sign next to it labeled: "Example: A slimy, continuous trail."
+
+**Right Side: Discrete-Time**
+- **Character:** A hyper-active, blocky robot kangaroo, bouncing rigidly from one floating, square platform to the next. The platforms should be at different heights.
+- **Label:** Above the character, render the text: "Discrete-Time: One! Hop! At! A! Time!"
+- **Example:** The square platforms the robot is hopping on should be clearly labeled: "Example: Hopping from one distinct spot to the next."
+
+
+--- PROMPT 2: LINEARITY ---
+
+Create a vibrant infographic titled "Simple Rules vs. Utter Chaos!" in a whimsical and funny cartoon style. The overall aesthetic should be like a modern webcomic with a bright, saturated color palette and dynamic character illustrations. All text should be in a playful, bold, hand-drawn font.
+
+The infographic should compare two funny characters side-by-side:
+
+**Left Side: Linear**
+- **Character:** A very prim, proper, and slightly smug robot butler walking a perfectly straight tightrope high in the air. He is flawlessly holding a tray with a fancy drink that is not spilling at all.
+- **Label:** Above the character, render the text: "Linear: So predictable! What you put in is what you get out."
+- **Example:** The robot butler should be pointing a free hand down towards a cartoon vending machine on the ground, which is clearly labeled: "Example: 1 coin = 1 soda. Always."
+
+**Right Side: Nonlinear**
+- **Character:** A wild-haired cartoon scientist with goggles askew, being launched into the air from a giant, overly-complex Rube Goldberg machine. The machine should have lots of unnecessary gears, springs, and levers.
+- **Label:** Above the character, render the text: "Nonlinear: A tiny nudge can cause total mayhem!"
+- **Example:** The start of the machine should feature a tiny mouse pulling a string, and the entire chaotic contraption should have a large sign on it labeled: "Example: This ridiculously complicated machine."
+
+
+--- PROMPT 3: PREDICTABILITY ---
+
+Create a vibrant infographic titled "Fortune Teller or Total Guesswork?" in a whimsical and funny cartoon style. The overall aesthetic should be like a modern webcomic with a bright, saturated color palette and dynamic character illustrations. All text should be in a playful, bold, hand-drawn font.
+
+The infographic should compare two funny characters side-by-side:
+
+**Left Side: Deterministic**
+- **Character:** A smug-looking cartoon fortune teller wearing a turban and gazing into a crystal ball. He is pointing confidently with one hand down a single, straight, brightly-lit road that stretches into the distance.
+- **Label:** Above the character, render the text: "Deterministic: I know EXACTLY how this story ends!"
+- **Example:** The road should be made of a perfectly aligned set of falling dominoes, with a sign next to it labeled: "Example: A perfect domino chain reaction."
+
+**Right Side: Stochastic**
+- **Character:** The exact same fortune teller, but now he looks panicked and confused. His turban is unraveling, and he is shrugging with both hands up in the air. The crystal ball is cracked.
+- **Label:** Above the character, render the text: "Stochastic: Your guess is as good as mine!"
+- **Example:** The fortune teller is staring at a road that immediately splits from his feet into a tangled, spaghetti-like mess of dozens of possible paths. One path leads to a cartoon cat about to knock a vase off a table, with a sign labeled: "Example: Will the cat do it? Who knows!"

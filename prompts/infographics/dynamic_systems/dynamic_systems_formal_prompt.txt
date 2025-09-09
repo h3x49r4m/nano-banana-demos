@@ -1,0 +1,68 @@
+Create a tall, vertical infographic titled "An Introduction to Dynamical Systems." The design must be professional, insightful, and precise, suitable for an academic or enterprise audience (style similar to Google AI or NVIDIA technical illustrations). Use a dark background (charcoal gray or deep navy blue) with a sleek, modern layout.
+
+**Aesthetic & Typography:**
+- **Visuals:** Use abstract, glowing data visualizations, geometric shapes, and particle-like trajectories. Avoid cartoon characters. The style should be clean, minimalist, and data-centric.
+- **Color Palette:** Use a limited, professional palette with vibrant, glowing accent colors (e.g., cyan, magenta, green) for highlights and data paths.
+- **Typography:** All text must be rendered in a clean, legible, sans-serif font (like Roboto or Helvetica).
+
+**Header Section:**
+- **Title:** "An Introduction to Dynamical Systems"
+- **Subtitle:** "Modeling the evolution of systems governed by deterministic or stochastic rules."
+- **Header Visual:** An abstract, beautiful visualization of a complex system, such as a glowing neural network diagram or a particle field with trajectories.
+
+--- 
+
+**Section 1: Classification by Time Evolution**
+- A side-by-side comparison with clear titles.
+
+**Left Column: Continuous-Time**
+- **Visual:** A 3D-style graph showing a smooth, glowing cyan line representing a particle's trajectory moving continuously through a coordinate space.
+- **Label:** "Continuous-Time System"
+- **Description:** "The system's state evolves smoothly and uninterruptedly over time."
+- **Governing Rule:** "Model: Differential Equations (e.g., dx/dt)"
+- **Use Case:** A small, clean icon of an orbiting planet, labeled "Application: Celestial Mechanics."
+
+**Right Column: Discrete-Time**
+- **Visual:** A similar 3D graph, but showing a series of distinct, glowing cyan nodes connected by faint, dotted lines, illustrating 'jumps' between states.
+- **Label:** "Discrete-Time System"
+- **Description:** "The system's state evolves in distinct, separate steps or iterations."
+- **Governing Rule:** "Model: Difference Equations / Maps (e.g., xn+1)"
+- **Use Case:** A small, clean icon of a population bar chart, labeled "Application: Population Modeling."
+
+--- 
+
+**Section 2: Classification by Linearity**
+- A side-by-side comparison.
+
+**Left Column: Linear System**
+- **Visual:** An abstract representation of a 'phase space' with perfectly parallel, straight, glowing green trajectories, indicating orderly and predictable flow.
+- **Label:** "Linear System"
+- **Description:** "Obeys the principle of superposition; behavior is highly predictable."
+- **Governing Rule:** "Rule: Governed by Linear Equations."
+- **Use Case:** A minimalist icon of a simple resistor circuit, labeled "Application: Simple Electrical Circuits."
+
+**Right Column: Nonlinear System**
+- **Visual:** A phase space showing complex, swirling, glowing green trajectories converging into a 'strange attractor' (similar to the Lorenz attractor), visually representing chaos.
+- **Label:** "Nonlinear System"
+- **Description:** "Can exhibit complex, emergent, and chaotic behavior."
+- **Governing Rule:** "Rule: Governed by Nonlinear Equations."
+- **Use Case:** A minimalist icon of fluid turbulence, labeled "Application: Fluid Dynamics, Neuroscience."
+
+--- 
+
+**Section 3: Classification by Predictability**
+- A side-by-side comparison.
+
+**Left Column: Deterministic System**
+- **Visual:** A single point in a phase space with one, clear, brightly lit magenta trajectory flowing from it.
+- **Label:** "Deterministic System"
+- **Description:** "The future state is uniquely determined by the initial state. No randomness."
+- **Governing Rule:** "Principle: Initial conditions precisely define the future."
+- **Use Case:** An icon showing the precise launch trajectory of a rocket, labeled "Application: Aerospace Engineering."
+
+**Right Column: Stochastic System**
+- **Visual:** A single point in a phase space with a 'cone of uncertainty' or multiple, branching, semi-transparent magenta trajectories flowing from it.
+- **Label:** "Stochastic System"
+- **Description:** "System evolution involves inherent randomness or noise."
+- **Governing Rule:** "Principle: Includes a random variable or process (e.g., dWt)."
+- **Use Case:** An icon of a jagged financial candlestick chart, labeled "Application: Financial Modeling."

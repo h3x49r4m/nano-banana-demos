@@ -1,0 +1,30 @@
+Create a visually appealing and educational infographic about the types of clouds, designed as a tall, vertical vector illustration with a clean, modern, flat design. The background should be a smooth gradient of a bright blue sky, transitioning from deep blue at the bottom to a light, airy blue at the top.
+
+The infographic should be sectioned by altitude:
+
+*   **Top Section (High-Level Clouds > 20,000 ft):**
+    *   **Cirrus:** Thin, wispy, feather-like streaks.
+    *   **Cirrocumulus:** A beautiful pattern of small, white, rippling patches.
+    *   **Cirrostratus:** A transparent, thin veil creating a halo effect around a stylized sun.
+
+*   **Middle Section (Mid-Level Clouds 6,500 - 20,000 ft):**
+    *   **Altocumulus:** Wavy layers of white and gray patches.
+    *   **Altostratus:** A smooth, grayish-blue sheet covering the sky.
+
+*   **Lower Section (Low-Level Clouds < 6,500 ft):**
+    *   **Stratus:** A flat, featureless, gray layer.
+    *   **Stratocumulus:** Lumpy, soft, gray and whitish layers.
+    *   **Nimbostratus:** A dark, ominous gray layer with visible streaks of falling rain.
+
+*   **Vertically Developed Clouds:**
+    *   **Cumulus:** Fluffy, bright white, cotton-like clouds with flat, shadowy bases.
+    *   **Cumulonimbus:** A massive, towering, dense cloud with a dark, turbulent base and a prominent anvil-shaped top, with dramatic lightning bolts.
+
+Each cloud should be clearly labeled with its name in a bold, clean, sans-serif font, and include a brief, one-sentence description. The main title, "Types of Clouds," should be prominent at the top.
+
+Optionally, at the bottom, include a small section for "Special Clouds":
+*   **Mammatus:** Pouch-like, bubbly clouds.
+*   **Lenticular:** Smooth, lens-shaped, stacked clouds.
+*   **Nacreous:** "Mother-of-pearl" clouds with subtle, iridescent pastel colors.
+
+The overall aesthetic should be clean, vibrant, and engaging, perfect for educational purposes.

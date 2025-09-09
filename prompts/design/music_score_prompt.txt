@@ -1,0 +1,15 @@
+Create a beautiful, high-quality image of a blank music sheet designed for a children's song. The style should be clean, simple, and inviting.
+
+**Goal:**
+To create a visually appealing template for the song "Twinkle, Twinkle, Little Star." The AI should NOT draw any notes. The musical staves should be left empty for the notes to be added later.
+
+**Content and Composition:**
+- **Title:** At the top of the page, render the title "Twinkle, Twinkle, Little Star" in a friendly, slightly playful font.
+- **Background:** The background should be a clean, off-white or light cream color. Decorate the corners and margins with soft, whimsical, pastel-colored stars and sparkles. The decorations should be subtle and not interfere with the music area.
+- **Staves:** The main area of the image should feature six (6) perfectly drawn, empty five-line staves. The lines should be crisp and black.
+- **Clefs and Signatures:** At the beginning of each of the six staves, draw a large, clear Treble Clef. Next to each clef, draw a 4/4 time signature. Leave the rest of the staff completely empty.
+
+**Overall Look and Feel:**
+- The layout should be clean, balanced, and spacious, with plenty of room on the staves for notes to be added.
+- The lighting should be bright and even.
+- The final image should be a beautiful, high-resolution template, ready for musical notation.

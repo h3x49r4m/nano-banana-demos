@@ -1,0 +1,33 @@
+Create a tall, vertical infographic titled "Cosmic Clash: Dark Matter vs. Dark Energy." The design should be clean, data-rich, and have a scientific aesthetic, like a modern blueprint or a holographic display. Use a dark background with two primary glowing accent colors: a cool blue for Dark Matter and a warm magenta for Dark Energy.
+
+**Section 1 (Top): The Shared Mystery**
+- Center the text: "Two invisible giants rule our universe, together accounting for 95% of its mass-energy content. While fundamentally different, they share a common mystery."
+- Below this, create a central graphic that is a circle split in half. The left half is blue, the right is magenta.
+- On top of the circle, overlay two icons: a simple, stylized eye with a slash through it (labeled "Invisible to Light") and a large question mark (labeled "Nature Unknown").
+
+**Section 2 (Middle): A Tale of Two Forces**
+- This section is a direct, side-by-side comparison with two columns. Use strong, clear headings for each column.
+
+**Left Column (Blue Accents): DARK MATTER**
+- **Role:** Cosmic Glue
+- **Force:** Attractive (Gravity). Show an icon of arrows pointing inwards, compressing a galaxy icon.
+- **Effect:** Builds Structures. Show an icon of a web-like cosmic structure with bright nodes, labeled "Forms the scaffolding for galaxies."
+- **Distribution:** Clumpy & Clustered. Show an icon representing a lumpy, uneven distribution of particles.
+
+**Right Column (Magenta Accents): DARK ENERGY**
+- **Role:** Cosmic Engine
+- **Force:** Repulsive (Anti-Gravity). Show an icon of arrows pointing outwards, pushing galaxy icons apart.
+- **Effect:** Expands Space. Show an icon of an expanding grid, labeled "Drives the accelerating expansion of space itself."
+- **Distribution:** Smooth & Uniform. Show an icon representing a smooth, even field of energy.
+
+**Section 3 (Bottom): The Evidence**
+- A section with two distinct sub-headings.
+
+**Evidence for Dark Matter:**
+- **Diagram 1 (Galaxy Rotation):** A simplified graph showing two lines for a galaxy's star speed. One line, labeled "Expected from Visible Matter," curves down. The other, a flat line labeled "Observed (Flat Curve)," demonstrates the need for extra mass.
+- **Diagram 2 (Gravitational Lensing):** A simple diagram showing light from a distant quasar being bent around a galaxy cluster, creating multiple images.
+
+**Evidence for Dark Energy:**
+- **Diagram 3 (Accelerating Expansion):** A cone-shaped timeline flaring outwards. Label the bottom "Past" and the top "Present." Show supernova icons on the timeline, with text: "Distant supernovae are dimmer and farther than expected, proving the expansion is speeding up."
+
+Ensure all typography is a clean, sans-serif font suitable for scientific data. Use lines and dividers to neatly organize the sections.

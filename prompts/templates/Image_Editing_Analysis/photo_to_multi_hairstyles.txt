@@ -1,0 +1,6 @@
+Ref: https://x.com/balconychy
+
+Template:
+Generate avatars of this person with different hairstyles in a 3x3 grid format
+
+Example:

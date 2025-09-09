@@ -1,0 +1,6 @@
+Ref: https://x.com/op7418
+
+Template:
+
+Example:
+Convert the photo to a top-down view and mark the location of the photographer.

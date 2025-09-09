@@ -1,0 +1,11 @@
+Ref: https://weibo.com/u/5648162302
+
+Template:
+
+Example:
+Generate an infographic for the article content
+Requirements:
+1. Translate the content into English and extract key information from the article
+2. Keep the content in the image concise, only retaining the main title
+3. Use English text in the image
+4. Add rich and cute cartoon characters and elements

@@ -1,0 +1,33 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# os
+.DS_Store
+
+# env
+.configs
+
+# outputs
+_out
+
+# node
+node_modules
+public
+package-lock.json
+
+# vim
+*.swp
+*.swn
+*.swm
+
+# lock
+*.lock
+uv.lock

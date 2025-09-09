@@ -140,31 +140,37 @@ Prompt Categories
 
 The `prompts/` directory contains a diverse collection of prompt files, organized into categories to demonstrate various capabilities of the Gemini API.
 
--   **`prompts/design/`**: Contains prompts related to general design tasks, focusing on visual composition and specific design elements.
-    -   Example: Creating a blank music sheet.
+**`prompts/design/`**: Contains prompts related to general design tasks, focusing on visual composition and specific design elements.
 
--   **`prompts/infographics/`**: Contains highly structured prompts for generating educational and scientific infographics, detailing visual layouts and illustrative elements for complex topics.
-    -   Subcategories include: Activation Functions, Dark Matter & Dark Energy, Dynamic Systems, and Earth Science.
+-   Example: Creating a blank music sheet.
 
--   **`prompts/templates/`**: This extensive collection showcases a wide range of image generation and manipulation tasks, further categorized for clarity:
-    -   **`Artistic_Transformations`**: Prompts for transforming images into different artistic styles (e.g., classic painting, Lego, sculpture, stickers, minimalist negative space).
-    -   **`Character_Design_Art`**: Prompts focused on character creation, design, poses, and transforming illustrations or anime into different forms.
-    -   **`Image_Editing_Analysis`**: Prompts for tasks like image annotation, enhancement, restoration, and applying specific visual modifications (e.g., changing hairstyles).
-    -   **`Infographics_Content`**: Prompts for generating infographics and images that incorporate text for informational purposes.
-    -   **`Object_3D_Visualization`**: Prompts for creating 3D models from photos, generating multi-view representations of objects, and exploded views.
-    -   **`Perspective_Spatial`**: Prompts that involve changing perspectives, generating cross-sectional views, or adding augmented reality information to images.
-    -   **`Photography_Scene_Generation`**: Prompts for creating realistic photographic scenes, product mockups, product packaging designs, and combining multiple image elements into a single scene.
-    -   **`Scientific_Educational`**: Prompts for generating visual solutions to math puzzles or creating annotated models for academic/scientific presentations.
-    -   **`Storytelling_Sequence`**: Prompts for generating sequential images or storyboards to tell a narrative.
+**`prompts/infographics/`**: Contains highly structured prompts for generating educational and scientific infographics, detailing visual layouts and illustrative elements for complex topics.
+
+-   Subcategories include: Activation Functions, Dark Matter & Dark Energy, Dynamic Systems, and Earth Science.
+
+**`prompts/templates/`**: This extensive collection showcases a wide range of image generation and manipulation tasks, further categorized for clarity:
+
+-   **`Artistic_Transformations`**: Prompts for transforming images into different artistic styles (e.g., classic painting, Lego, sculpture, stickers, minimalist negative space).
+-   **`Character_Design_Art`**: Prompts focused on character creation, design, poses, and transforming illustrations or anime into different forms.
+-   **`Image_Editing_Analysis`**: Prompts for tasks like image annotation, enhancement, restoration, and applying specific visual modifications (e.g., changing hairstyles).
+-   **`Infographics_Content`**: Prompts for generating infographics and images that incorporate text for informational purposes.
+-   **`Object_3D_Visualization`**: Prompts for creating 3D models from photos, generating multi-view representations of objects, and exploded views.
+-   **`Perspective_Spatial`**: Prompts that involve changing perspectives, generating cross-sectional views, or adding augmented reality information to images.
+-   **`Photography_Scene_Generation`**: Prompts for creating realistic photographic scenes, product mockups, product packaging designs, and combining multiple image elements into a single scene.
+-   **`Scientific_Educational`**: Prompts for generating visual solutions to math puzzles or creating annotated models for academic/scientific presentations.
+-   **`Storytelling_Sequence`**: Prompts for generating sequential images or storyboards to tell a narrative.
 
 Technologies Used
 -----------------
 
--   **Python:**
-    -   **FastAPI:** Web framework for the backend.
-    -   **Google GenAI:** Python client library for the Gemini API.
-    -   **Pillow:** Image processing library.
-    -   **Uvicorn:** ASGI server for FastAPI.
--   **JavaScript/TypeScript:**
-    -   **React:** Frontend library for building user interfaces.
-    -   **Node.js/npm:** JavaScript runtime and package manager for the frontend.
+**Python:**
+
+-   **FastAPI:** Web framework for the backend.
+-   **Google GenAI:** Python client library for the Gemini API.
+-   **Pillow:** Image processing library.
+-   **Uvicorn:** ASGI server for FastAPI.
+
+**JavaScript/TypeScript:**
+
+-   **React:** Frontend library for building user interfaces.
+-   **Node.js/npm:** JavaScript runtime and package manager for the frontend.

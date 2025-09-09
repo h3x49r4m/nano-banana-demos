@@ -140,25 +140,38 @@ Prompt Categories
 
 The **prompts/** directory contains a diverse collection of prompt files, organized into categories to demonstrate various capabilities of the Gemini API.
 
-**prompts/design/**: Contains prompts related to general design tasks, focusing on visual composition and specific design elements.
+`prompts/design`_: Contains prompts related to general design tasks, focusing on visual composition and specific design elements.
 
 -   Example: Creating a blank music sheet.
 
-**prompts/infographics/**: Contains highly structured prompts for generating educational and scientific infographics, detailing visual layouts and illustrative elements for complex topics.
+`prompts/infographics`_: Contains highly structured prompts for generating educational and scientific infographics, detailing visual layouts and illustrative elements for complex topics.
 
 -   Subcategories include: Activation Functions, Dark Matter & Dark Energy, Dynamic Systems, and Earth Science.
 
-**prompts/templates/**: This extensive collection showcases a wide range of image generation and manipulation tasks, further categorized for clarity:
+`prompts/templates`_: This extensive collection showcases a wide range of image generation and manipulation tasks, further categorized for clarity:
 
--   **Artistic_Transformations**: Prompts for transforming images into different artistic styles (e.g., classic painting, Lego, sculpture, stickers, minimalist negative space).
--   **Character_Design_Art**: Prompts focused on character creation, design, poses, and transforming illustrations or anime into different forms.
--   **Image_Editing_Analysis**: Prompts for tasks like image annotation, enhancement, restoration, and applying specific visual modifications (e.g., changing hairstyles).
--   **Infographics_Content**: Prompts for generating infographics and images that incorporate text for informational purposes.
--   **Object_3D_Visualization**: Prompts for creating 3D models from photos, generating multi-view representations of objects, and exploded views.
--   **Perspective_Spatial**: Prompts that involve changing perspectives, generating cross-sectional views, or adding augmented reality information to images.
--   **Photography_Scene_Generation**: Prompts for creating realistic photographic scenes, product mockups, product packaging designs, and combining multiple image elements into a single scene.
--   **Scientific_Educational**: Prompts for generating visual solutions to math puzzles or creating annotated models for academic/scientific presentations.
--   **Storytelling_Sequence**: Prompts for generating sequential images or storyboards to tell a narrative.
+-   `Artistic_Transformations`_: Prompts for transforming images into different artistic styles (e.g., classic painting, Lego, sculpture, stickers, minimalist negative space).
+-   `Character_Design_Art`_: Prompts focused on character creation, design, poses, and transforming illustrations or anime into different forms.
+-   `Image_Editing_Analysis`_: Prompts for tasks like image annotation, enhancement, restoration, and applying specific visual modifications (e.g., changing hairstyles).
+-   `Infographics_Content`_: Prompts for generating infographics and images that incorporate text for informational purposes.
+-   `Object_3D_Visualization`_: Prompts for creating 3D models from photos, generating multi-view representations of objects, and exploded views.
+-   `Perspective_Spatial`_: Prompts that involve changing perspectives, generating cross-sectional views, or adding augmented reality information to images.
+-   `Photography_Scene_Generation`_: Prompts for creating realistic photographic scenes, product mockups, product packaging designs, and combining multiple image elements into a single scene.
+-   `Scientific_Educational`_: Prompts for generating visual solutions to math puzzles or creating annotated models for academic/scientific presentations.
+-   `Storytelling_Sequence`_: Prompts for generating sequential images or storyboards to tell a narrative.
+
+.. _prompts/design: prompts/design/
+.. _prompts/infographics: prompts/infographics/
+.. _prompts/templates: prompts/templates/
+.. _Artistic_Transformations: prompts/templates/Artistic_Transformations/
+.. _Character_Design_Art: prompts/templates/Character_Design_Art/
+.. _Image_Editing_Analysis: prompts/templates/Image_Editing_Analysis/
+.. _Infographics_Content: prompts/templates/Infographics_Content/
+.. _Object_3D_Visualization: prompts/templates/Object_3D_Visualization/
+.. _Perspective_Spatial: prompts/templates/Perspective_Spatial/
+.. _Photography_Scene_Generation: prompts/templates/Photography_Scene_Generation/
+.. _Scientific_Educational: prompts/templates/Scientific_Educational/
+.. _Storytelling_Sequence: prompts/templates/Storytelling_Sequence/
 
 Technologies Used
 -----------------
@@ -174,3 +187,4 @@ Technologies Used
 
 -   **React:** Frontend library for building user interfaces.
 -   **Node.js/npm:** JavaScript runtime and package manager for the frontend.
+

@@ -1,0 +1,101 @@
+.App {
+  text-align: center;
+}
+
+.App-container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fullscreen-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.controls {
+  position: absolute;
+  bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+.prompt-input {
+  flex-grow: 1;
+  padding: 15px;
+  font-size: 1.2em;
+  border-radius: 30px;
+  margin-right: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: rgba(128, 128, 128, 0.5);
+  color: white;
+  backdrop-filter: blur(10px);
+  border: 1px solid white;
+}
+
+.prompt-input:focus {
+  outline: none;
+  border-color: white;
+}
+
+.prompt-input:hover {
+  background-color: white;
+  color: black;
+}
+
+.send-button {
+  padding: 15px 30px;
+  font-size: 1.2em;
+  border-radius: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background-color: white;
+  backdrop-filter: blur(10px);
+  color: black;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s;
+}
+
+.send-button:hover {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.send-button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.loading-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 10;
+}
+
+.spinner {
+  border: 16px solid #f3f3f3;
+  border-top: 16px solid #3498db;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

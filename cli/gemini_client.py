@@ -51,7 +51,7 @@ class GeminiClient:
                 images.append(part.inline_data.data)
                 if is_verbose:
                     image = Image.open(BytesIO(part.inline_data.data))
-                    image_path = f"/Users/inu/_dev/github/nano_banana_demos/_out/image_{uuid.uuid4()}.png"
+                    image_path = f"{os.path.join(os.path.dirname(__file__), '_out', 'image_{uuid.uuid4()}.png')}" 
                     image.save(image_path)
                     print(f"INFO: image saved at {image_path}")
                     image.show()
